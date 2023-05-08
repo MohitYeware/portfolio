@@ -24,7 +24,7 @@ const Navbar = () => {
   ];
 
   return (
-    <div className="flex justify-between items-center w-full h-24 text-white bg-black px-4 fixed">
+    <div className="flex justify-between items-center w-full h-20 md:h-16 text-white bg-black px-4 fixed">
       <div>
         <h2 className="text-4xl font-bold ml-48 md:ml-4 text-gray-400 hover:scale-110 duration-300">
           Mohit Yeware
