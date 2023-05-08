@@ -71,7 +71,7 @@ const Skills = () => {
       name="skills"
       className="bg-gradient-to-b from-black to-gray-500 w-full h-screen">
       <div className="w-full h-full max-w-screen-lg mx-auto p-4 flex flex-col justify-center text-white">
-        <div className="mx-auto">
+        <div className="mx-auto mt-24">
           <p className="text-4xl mx-64 md:mx-80 font-bold inline border-b-4 border-gray-500 p-2">
             Skills
           </p>
