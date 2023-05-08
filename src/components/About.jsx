@@ -18,6 +18,11 @@ const About = () => {
           learning Blockchain, Web3 and Decentralized Finance. I am always
           excited to work with like minded people, lets discuss over coffee or
           simply reach out to me on LinkedIn.
+          <br />
+          <br />
+          Looking for an opportunity to work in a challenging position combining
+          my skills in Software Engineering, which provides professional
+          development, interesting experiences and personal growth.
         </p>
       </div>
     </div>
