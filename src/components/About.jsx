@@ -10,7 +10,7 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-4">
+        <p className="text-xl mt-4 text-justify">
           Hi, I'm a student pursuing master's degree in Software Engineering in
           Germany. I have 4 years of professional work experience in various
           domains. I love to work on full stack web applications using

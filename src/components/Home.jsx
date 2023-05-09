@@ -1,4 +1,4 @@
-import HeroImage from "../assets/profile.jpeg";
+import ProfileImg from "../assets/profile.jpeg";
 
 const Home = () => {
   return (
@@ -11,7 +11,7 @@ const Home = () => {
             I'm a Software Engineer
           </h2>
 
-          <p className="text-gray-400 pt-4 max-w-md">
+          <p className="text-gray-400 pt-4 max-w-md text-justify">
             I have 4 years of software development experience in multiple
             domains.
             <br />
@@ -21,7 +21,7 @@ const Home = () => {
         </div>
         <div>
           <img
-            src={HeroImage}
+            src={ProfileImg}
             className="rounded-lg w-2/3 md:w-full mx-8 mb-8 md:mt-12"
             alt="my profile"
           />
